@@ -5,5 +5,5 @@
   Please do not remove this file before checking with Jeff Pope or Adam Yale
 */
 body.pre {
-  border-left-color: #21D083;
+  border-left: #21D083!important;
 }
