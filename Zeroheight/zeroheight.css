@@ -1,0 +1,9 @@
+/*
+  This file helps override styles in Zeroheight
+  https://zeroheight.com/5565e324d/p/557c1e-trading-platform-reference-uiux
+  -
+  Please do not remove this file before checking with Jeff Pope or Adam Yale
+*/
+body.pre {
+  border-left-color: #21D083;
+}
